@@ -737,7 +737,7 @@ html.js,
 	width: calc(90vmin + (0.2 * 80vmin));
 	height: 90vmin;
 	border-radius: 0.15em;
-	background: #45bd94;
+	background: #3c78d8;
 	-webkit-transform: translate3d(-50%, -50%, 0) translate3d(calc(0.06 * 80vmin), 0, 0);
 	transform: translate3d(-50%, -50%, 0) translate3d(calc(0.06 * 80vmin), 0, 0);
 	pointer-events: none;
