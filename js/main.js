@@ -1379,7 +1379,7 @@
 		dynamics.css(expanderEl, { opacity: 1, left : position.x, top : position.y, backgroundColor : '#45918e', scale : 0 });
 		dynamics.animate(expanderEl, { 
 			scale : 1.5, 
-			backgroundColor : '#45cb96' 
+			backgroundColor : '#3c78d8' 
 		}, { 
 			duration : 500, 
 			type : dynamics.easeOut,
