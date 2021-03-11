@@ -17,13 +17,6 @@ Old School Music Player
 *   Stadium, cathedral, guitar icons made by [Freepik](http://www.flaticon.com/authors/freepik "Freepik") from [www.flaticon.com](http://www.flaticon.com "Flaticon"), licensed under [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/ "Creative Commons BY 3.0")
 *   [Getting Started with Web Audio API](http://www.html5rocks.com/en/tutorials/webaudio/intro/) by Boris Smus on HTML5Rocks
 
-## Misc
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
-
-[© Codrops 2016](http://www.codrops.com)
-
-
 
 
 
